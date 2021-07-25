@@ -5,4 +5,4 @@ This project aims to predict stock movement of AstraZeneca (AZN) using historica
 * Can a long short-term memory (LSTM) model accurately predict the future stock prices?
 * Which of the three models best predicts future stock prices? 
 
-To view the whole project, click <a hres="https://github.com/melaniaczobit/Predicting-AstraZeneca-Stock-Movement/blob/main/AstraZeneca_Stock_Prices.ipynb">here</a>. 
+To view the whole project, click <a href="https://github.com/melaniaczobit/Predicting-AstraZeneca-Stock-Movement/blob/main/AstraZeneca_Stock_Prices.ipynb">here</a>. 
